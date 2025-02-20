@@ -18,7 +18,7 @@
  * @brief Specify to enable USB 3.0
  *
  */
-#define USE_USB_3_0 1
+#define USE_USB_3_0 0
 
 
 // For USB 3.0, it must be 1024 byte.
